@@ -59,7 +59,7 @@ body{
     font-family: 'Lobster', cursive;font-size: 1.2rem;z-index: 2;position: relative;color: white;
 }
 .mybtn{
-    margin-top: 80px;font-weight: 600;z-index: 3;
+    margin-top: 95px;font-weight: 600;z-index: 3;
 }
 .carousel-inner{
     background: none;padding: 0px 130px 0px;margin-top: 0;height: 410px;
