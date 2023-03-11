@@ -318,6 +318,9 @@ body{
     .secound-ppp img{
         width: 125px;position: relative;margin-left: -48px;margin-right: -15px;
     }
+    .first-ppp img{
+        width:300px;
+    }
     .c4{
         width: 165px;
     }
@@ -340,7 +343,7 @@ body{
         width: 175px;
     }
     .c10{
-        width: 170px;
+        width: 160px;
     }
     .c9{
         width: 105px;
