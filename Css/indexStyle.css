@@ -267,7 +267,7 @@ body{
     resize: vertical;
     display: inline-block;
 }
-@media (max-width:1300px){
+@media (max-width:1260px){
     .myplayers{
         display: none;
     }
