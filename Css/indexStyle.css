@@ -358,6 +358,6 @@ body{
 @media (max-width:550px){
     .secound-ppp{
         background: none;text-align: center;margin-top: 0;position: relative;overflow: hidden;
-        top: -40px;height: 120px;padding: 5px;border-bottom: 2px solid #911d1d;
+        top: -40px;height: 120px;padding: 5px;border-bottom: 2px solid #911d1d;width: 98%;
     }
 }
